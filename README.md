@@ -6,8 +6,8 @@ Projeto simples com backend e frontend.
 
 ```
 abi/
-├── backend/          # Backend em Node.js/TypeScript
-├── frontend/         # Frontend (a ser criado)
+├── backend/          # Backend em Node.js/TypeScript/Nest
+├── frontend/         # Frontend em React.js/Typescript/Next
 └── README.md
 ```
 
@@ -28,8 +28,4 @@ npm run start:dev
 
 ## Frontend
 
-O frontend será criado na pasta `frontend/`.
-
 ## Desenvolvimento
-
-Este é um projeto em desenvolvimento. Commits frequentes são feitos para manter o controle de versão. 
